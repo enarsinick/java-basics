@@ -3,7 +3,7 @@ package com.qa.qacommunity;
 public class StringManipulation2 {
 
 	public static void main(String[] args) {
-
+		
 //		System.out.println(countWords("That's the way the cookie crumbles"));
 //		verticalString("That's the way the cookie crumbles");
 //		verticalStringReverse("That's the way the cookie crumbles");
