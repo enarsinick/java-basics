@@ -1,6 +1,6 @@
 package com.qa.qacommunity;
 
-public class Arrays {
+public class ArraysDemo {
 
 	public static void main(String[] args) {
 
